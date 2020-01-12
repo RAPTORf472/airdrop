@@ -1,0 +1,10 @@
+name: Airdrop
+main: me.raptor.airdrop.Main
+author: RAPTOR
+version: 1.0
+description: An airdrop plugin
+api-version: 1.13
+
+commands:
+  airdrop:
+   usage: /<command>
